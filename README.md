@@ -9,4 +9,4 @@ prueba 1:
 
 
 prueba 2:
-- para la prueba 2(task) se debe debe ejecutar 'npm start' en la ventana de comandos, esperar a la respuesta exitosa del servidor y abrir una ventana en el navegador con la dirección  http://localhost:3000/login. 
+- para la prueba 2(task) se debe debe ejecutar 'npm start' en la ventana de comandos ya ubicada en el fichero del proyecto, esperar a la respuesta exitosa del servidor y abrir una ventana en el navegador con la dirección  http://localhost:3000/login. 
